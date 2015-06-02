@@ -1,0 +1,6 @@
+#git ignore
+# .gitignore
+.bower-*/
+.idea/
+node_modules/
+build/
